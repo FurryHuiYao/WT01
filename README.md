@@ -5,5 +5,5 @@ Some scripts of the game Grand Battle Royale, ONLY FOR SYUDYING
 使用 **Qwen3.7-Plus**.
 
 本项目的目的主要是整合 *Grand Battle Royale* 游戏的脚本, 
-(c)ZGTeam233 和 禄邪永布梨 以及 Furry晖曜版权所有. 
+(c)ZGTeam233 和 禄邪永布梨 以及 Furry晖曜 版权所有. 
 正在开发中, 请稍后.
